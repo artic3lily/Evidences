@@ -1,0 +1,20 @@
+{"prompt": "Explain Generative AI to a beginner.", "response": "Generative AI is a type of artificial intelligence that creates new content such as text, images, music, or code based on patterns it has learned from examples."}
+{"prompt": "Give 3 examples of Generative AI tools.", "response": "Three examples of Generative AI tools are ChatGPT for text generation, DALL-E for image generation, and GitHub Copilot for code suggestions."}
+{"prompt": "Explain RAG to a beginner.", "response": "RAG stands for Retrieval-Augmented Generation. It first finds useful information from documents and then uses that information to generate a better answer."}
+{"prompt": "Why is RAG useful?", "response": "RAG is useful because it helps a language model answer with more relevant and grounded information instead of relying only on memory."}
+{"prompt": "What is prompt engineering?", "response": "Prompt engineering is the process of writing clear instructions for an AI model so it can produce more accurate, helpful, and well-structured outputs."}
+{"prompt": "How does a vector database help a chatbot?", "response": "A vector database stores text as embeddings, which helps a chatbot quickly retrieve related information when a user asks a question."}
+{"prompt": "What is an embedding in AI?", "response": "An embedding is a numerical representation of text that captures meaning so similar words or sentences are placed closer together."}
+{"prompt": "Explain hallucination in AI.", "response": "Hallucination happens when an AI model gives incorrect or made-up information that sounds confident but is not supported by facts or source material."}
+{"prompt": "How can we reduce hallucination in a chatbot?", "response": "We can reduce hallucination by using trusted source documents, retrieval-based methods like RAG, prompt constraints, and evaluation checks."}
+{"prompt": "What is fine-tuning in simple words?", "response": "Fine-tuning means training a pre-trained model on a smaller task-specific dataset so it performs better for a particular use case."}
+{"prompt": "Why use a small language model for a student project?", "response": "A small language model is faster to train, easier to run on limited hardware, and still useful for learning how model development works."}
+{"prompt": "What is LoRA in model training?", "response": "LoRA is a parameter-efficient fine-tuning method that updates a small number of additional weights instead of retraining the whole model."}
+{"prompt": "Explain Python functions to a beginner.", "response": "A Python function is a reusable block of code that performs a task. It helps organize programs and avoids repeating the same code."}
+{"prompt": "What is a Python loop?", "response": "A Python loop repeats a block of code multiple times. Common loops include for loops and while loops."}
+{"prompt": "What is the difference between AI and machine learning?", "response": "AI is the broader field of building systems that act intelligently, while machine learning is a method within AI that learns patterns from data."}
+{"prompt": "Why is data quality important for fine-tuning?", "response": "Data quality is important because the model learns from the examples it is given. Clear and accurate data leads to better outputs."}
+{"prompt": "What is overfitting in model training?", "response": "Overfitting happens when a model memorizes the training data too closely and performs poorly on new or unseen examples."}
+{"prompt": "How can you avoid overfitting during fine-tuning?", "response": "You can avoid overfitting by using fewer epochs, monitoring loss, using a focused dataset, and testing the model on prompts it did not memorize."}
+{"prompt": "Why is ethical awareness important in AI?", "response": "Ethical awareness is important in AI because models can affect privacy, fairness, safety, and trust, so they should be designed responsibly."}
+{"prompt": "How should an educational chatbot respond to harmful requests?", "response": "An educational chatbot should refuse harmful or illegal requests and redirect the user toward safe, legal, and responsible alternatives."}
